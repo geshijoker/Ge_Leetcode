@@ -46,7 +46,7 @@ This is a personal version of leetcode submissions
 |178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](../master/database/_178.sql)| ? | ? | Medium|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Solution](../master/database/_177.sql)| O(n) | O(1) | Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](../master/database/_176.sql)| O(n)|O(1) | Easy|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
 
 
 ## Shell
