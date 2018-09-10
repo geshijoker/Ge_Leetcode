@@ -32,7 +32,7 @@ This is a personal version of leetcode submissions
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[Solution](../master/database/_577.sql) | || Easy |
 |574|[Winning Candidate](https://leetcode.com/problems/winning-candidate/)|[Solution](../master/database/_574.sql) | || Medium |
 |571|[Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/)|[Solution](../master/database/_571.sql) | || Hard |
-|570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](../master/database/_570.sql) | || Medium |
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589.java) | O(n^2) | O(1) | Easy | N-ary tree, recursion
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
