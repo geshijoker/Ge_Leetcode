@@ -34,7 +34,7 @@ This is a personal version of leetcode submissions
 |571|[Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/)|[Solution](../master/database/_571.sql) | || Hard |
 |570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](../master/database/_570.sql) | || Medium |
 |569|[Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)|[Solution](../master/database/_569.sql) | || Hard |
-|459|[SRepeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
+|459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
 
 
