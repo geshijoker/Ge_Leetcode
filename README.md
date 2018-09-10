@@ -34,18 +34,7 @@ This is a personal version of leetcode submissions
 |571|[Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers/)|[Solution](../master/database/_571.sql) | || Hard |
 |570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[Solution](../master/database/_570.sql) | || Medium |
 |569|[Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)|[Solution](../master/database/_569.sql) | || Hard |
-|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[Solution](../master/database/_262.sql)||| Hard| Inner Join
-|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[Solution](../master/database/_197.sql)| O(n^2)|O(n) | Easy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[Solution](../master/database/_196.sql)| O(n^2)|O(n) | Easy|
-|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)|[Solution](../master/database/_185.sql)| | | Hard|
-|184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary)|[Solution](../master/database/_184.sql)| O(n^2)|O(n) | Medium|
-|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[Solution](../master/database/_183.sql)| O(n^2)|O(n) | Easy|
-|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[Solution](../master/database/_182.sql)| O(n^2)|O(n) | Easy| 
-|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](../master/database/_181.sql)| O(n^2)|O(n) | Easy|
-|180|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)|[Solution](../master/database/_180.sql)| O(n)|O(n) | Medium|
-|178|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[Solution](../master/database/_178.sql)| ? | ? | Medium|
-|177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[Solution](../master/database/_177.sql)| O(n) | O(1) | Medium|
-|459|[Second Highest Salary](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy|
+|459|[Second Highest Salary](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
 
 
