@@ -40,6 +40,7 @@ This is a personal version of leetcode submissions
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n)|O(1) | Easy| Substring
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
 
