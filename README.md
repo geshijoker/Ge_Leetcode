@@ -18,6 +18,7 @@ This is a personal version of leetcode submissions
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java	) | O(mn^2) | O(n) | Medium | BFS
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java	) | O(n^3) | O(n^2) | Medium | BST, catalan number
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)|O(n) | Easy| Hash Table
 
 
