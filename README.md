@@ -20,6 +20,7 @@ This is a personal version of leetcode submissions
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java	) | O(n^2) | O(n) | Medium | BST, catalan number
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java	) | O(n^3) | O(n^2) | Medium | BST, catalan number
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium| Binary Search
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Solution](../master/src/algorithm/java/lc_0002.java)| O(n)| O(n) | Medium| linkedList
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)| O(n) | Easy| Hash Table
 
