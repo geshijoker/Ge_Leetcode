@@ -15,6 +15,7 @@ This is a personal version of leetcode submissions
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Solution](../master/src/algorithm/java/lc_0146.java	) | O(1) | O(n) | Hard | Double LinkedList
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java	) | O(n) | O(n) | Medium | BFS
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java	) | O(mn^2) | O(n) | Medium | BFS
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
