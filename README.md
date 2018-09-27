@@ -44,3 +44,7 @@ This is a personal version of leetcode submissions
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[Solution](../master/shell/ValidPhoneNumbers.sh)| O(n)|O(1) | Easy|
 |192|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[Solution](../master/shell/WordFrequency.sh)| O(n)|O(k) | Medium|
 
+## Database
+|  #  |      Title     |   Solutions   | Difficulty  | Tag          
+|-----|----------------|---------------|-------------|--------------
+|595|[Big Countries](https://leetcode.com/problems/big-countries/description/)|[Solution](../master/src/database/lc_0595.log)| Easy |
