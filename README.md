@@ -34,6 +34,7 @@ This is a personal version of leetcode submissions
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(1) | Medium | Greedy
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Solution](../master/src/algorithm/java/lc_0053.java)| O(log(n))| O(1) | Medium | sum subarray
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Solution](../master/src/algorithm/java/lc_0045.java)| O(n)| O(1) | Hard | Greedy
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Solution](../master/src/algorithm/java/lc_0002.java)| O(n)| O(n) | Medium | linkedList
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)| O(n) | Easy| Hash Table
