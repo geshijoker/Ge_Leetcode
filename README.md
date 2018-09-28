@@ -14,6 +14,7 @@ This is a personal version of leetcode submissions
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/)|[Solution](../master/src/algorithm/java/lc_0460.java)| O(1)|O(n) | Hard| Double LinkedList
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[Solution](../master/src/algorithm/java/lc_0455.java	) | O(n) | O(1) | Easy | Greedy
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java	) | O(lg(n)) | O(1) | Easy | Two Pointers
