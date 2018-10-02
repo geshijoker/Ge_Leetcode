@@ -25,6 +25,7 @@ This is a personal version of leetcode submissions
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Solution](../master/src/algorithm/java/lc_0159.java	) | O(n) | O(1) | Hard | Two pointer
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Solution](../master/src/algorithm/java/lc_0146.java	) | O(1) | O(n) | Hard | Double LinkedList
+|135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java	) | O(n) | O(n) | Medium | BFS
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java	) | O(mn^2) | O(n) | Medium | BFS
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
