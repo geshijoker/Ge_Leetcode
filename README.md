@@ -21,6 +21,7 @@ This is a personal version of leetcode submissions
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java	) | O(lg(n)) | O(1) | Easy | Two Pointers
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java	) | O(n^3) | O(n^2) | Hard | DFS
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java	) | O(E) | O(E) | Medium | Inverse BFS
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java	) | O(VE) | O(V+E) | Medium | Topological Sort
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java	) | O(VE) | O(V+E) | Medium | DFS, Cycle
