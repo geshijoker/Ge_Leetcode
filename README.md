@@ -24,7 +24,8 @@ This is a personal version of leetcode submissions
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java	) | O(n^3) | O(n^2) | Hard | DFS
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java	) | O(E) | O(E) | Medium | Inverse BFS
-|252|[Meeting Rooms](https://leetcode.com/problemset/all/?search=meeting)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(n) | O(1) | Easy | Sort
+|253|[Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)|[Solution](../master/src/algorithm/java/lc_0253.java	) | O(nlgn) | O(n) | Medium | Sort
+|252|[Meeting Rooms](https://www.lintcode.com/problem/meeting-rooms/description)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(nlgn) | O(1) | Easy | Sort
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java	) | O(VE) | O(V+E) | Medium | Topological Sort
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java	) | O(VE) | O(V+E) | Medium | DFS, Cycle
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
