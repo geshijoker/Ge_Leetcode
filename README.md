@@ -19,6 +19,7 @@ This is a personal version of leetcode submissions
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java	) | O(n) | O(n) | Medium | Two Stacks
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java	) | O(lg(n)) | O(1) | Easy | Two Pointers
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java	) | O(n) | O(n) | Easy | Sort
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java	) | O(n^3) | O(n^2) | Hard | DFS
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
