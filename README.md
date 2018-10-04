@@ -36,7 +36,8 @@ This is a personal version of leetcode submissions
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java	) | O(n^2) | O(n) | Medium | BST, catalan number
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java	) | O(n^3) | O(n^2) | Medium | BST, catalan number
-|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(1) | Medium | Greedy
+|55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution](../master/src/algorithm/java/lc_0056.java)| O(n)| O(n) | Medium | Greedy
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Solution](../master/src/algorithm/java/lc_0053.java)| O(log(n))| O(1) | Medium | sum subarray
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Solution](../master/src/algorithm/java/lc_0045.java)| O(n)| O(1) | Hard | Greedy
