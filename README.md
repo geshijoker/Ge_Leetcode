@@ -10,7 +10,8 @@ This is a personal version of leetcode submissions
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0590_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0590.java	) | O(n^2) | O(1) | Easy | N-ary tree, recursive
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
-|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589.java) | O(n^2) | O(1) | Easy | N-ary tree, recursive
+|588|[Design In-Memory File System](https://leetcode.com/articles/design-in-memory-file-system/)|[Solution](../master/src/algorithm/java/lc_0588.java) | O(n) | O(n) | Hard | Hashmap, Tree
+|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](../master/src/algorithm/java/lc_0535.java)| O(1)|O(n) | Medium | ConcurrentHashMap
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/)|[Solution](../master/src/algorithm/java/lc_0460.java)| O(1)|O(n) | Hard| Double LinkedList
