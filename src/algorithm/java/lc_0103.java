@@ -9,30 +9,39 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        boolean flag = false;
-        Stack<TreeNode> st = new Stack<>();
-        Stack<Integer> lst = new Stack<>();
         List<List<Integer>> res = new ArrayList<>();
-        TreeNode cur = root;
-        int level = 0;
-        while(cur!=null || !st.empty()) {
-            while(cur!=null) {
-                if(level>=res.size())
-                    res.add(new ArrayList<Integer>());
-                st.push(cur);
-                lst.push(level);
-                cur = cur.left;
-                level = level+1;
+        if(root==null)
+            return res;
+        
+        Stack<TreeNode> st = new Stack<>();
+        Stack<TreeNode> lst = new Stack<>();
+        lst.push(root);
+        boolean reverse = true;
+        while(!lst.empty() || !st.empty()) {
+            List<Integer> list = new ArrayList<>();
+            if(reverse) {
+                while(!lst.empty()) {
+                    TreeNode levelNode = lst.pop();
+                    if(levelNode==null)
+                        continue;
+                    list.add(levelNode.val);
+                    st.push(levelNode.left);
+                    st.push(levelNode.right);
+                }
+                reverse = false;
+            }else {
+                while(!st.empty()) {
+                    TreeNode levelNode = st.pop();
+                    if(levelNode==null)
+                        continue;
+                    list.add(levelNode.val);
+                    lst.push(levelNode.right);
+                    lst.push(levelNode.left);
+                }
+                reverse = true;
             }
-            cur = st.pop();
-            level = lst.pop();
-            List<Integer> llist = res.get(level);
-            if(level%2==0)
-                llist.add(cur.val);
-            else
-                llist.add(0, cur.val);
-            cur = cur.right;
-            level = level+1;
+            if(!list.isEmpty())
+                res.add(list);
         }
         return res;
     }
