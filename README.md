@@ -20,6 +20,7 @@ This is a personal version of leetcode submissions
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/)|[Solution](../master/src/algorithm/java/lc_0460.java)| O(1)|O(n) | Hard| Double LinkedList
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[Solution](../master/src/algorithm/java/lc_0455.java	) | O(n) | O(1) | Easy | Greedy
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](../master/src/algorithm/java/lc_0442.java	) | O(n) | O(1) | Medium | Bucket
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java	) | O(n) | O(n) | Medium | Two Stacks
