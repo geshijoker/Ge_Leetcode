@@ -31,6 +31,7 @@ This is a personal version of leetcode submissions
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java	) | O(E) | O(E) | Medium | Inverse BFS
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Solution](../master/src/algorithm/java/lc_0300.java	) | O(nlgn) | O(n) | Medium | DP, Binary Search
 |295|[Longest Increasing Subsequence](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Solution](../master/src/algorithm/java/lc_0295.java	) | O(nlgn) | O(n) | Hard | Heap
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Solution](../master/src/algorithm/java/lc_0287.java	) | O(n) | O(1) | Medium | Two pointers
 |253|[Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)|[Solution](../master/src/algorithm/java/lc_0253.java	) | O(nlgn) | O(n) | Medium | Sort
 |252|[Meeting Rooms](https://www.lintcode.com/problem/meeting-rooms/description)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(nlgn) | O(1) | Easy | Sort
 |218|[Course Schedule II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java	) | O(nlgn) | O(n) | Hard | Treemap
