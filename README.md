@@ -59,6 +59,7 @@ This is a personal version of leetcode submissions
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution](../master/src/algorithm/java/lc_0056.java)| O(n)| O(n) | Medium | Greedy
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/)|[Solution](../master/src/algorithm/java/lc_0053.java)| O(log(n))| O(1) | Medium | sum subarray
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[Solution](../master/src/algorithm/java/lc_0052.java)| O(n^2)| O(n^2) | Hard | Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[Solution](../master/src/algorithm/java/lc_0051.java)| O(n^2)| O(n^2) | Hard | Backtracking
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](../master/src/algorithm/java/lc_0048.java)| O(n^2)| O(1) | Medium | Matrix
