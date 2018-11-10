@@ -1,6 +1,6 @@
 class Solution {
     public List<List<String>> solveNQueens(int n) {
-        int[][] diag = new int[2*n][2];
+        int[][] diag = new int[2*n-1][2];
         int[] c = new int[n];
 
         List<char[]> cur = new ArrayList();
