@@ -64,6 +64,7 @@ This is a personal version of leetcode submissions
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](../master/src/algorithm/java/lc_0048.java)| O(n^2)| O(1) | Medium | Matrix
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Solution](../master/src/algorithm/java/lc_0045.java)| O(n)| O(1) | Hard | Greedy
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Solution](../master/src/algorithm/java/lc_0041.java	) | O(n) | O(1) | Hard | Bucket
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Solution](../master/src/algorithm/java/lc_0040.java)| O(n^2)| O(n^2) | Medium | Backtrack
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Solution](../master/src/algorithm/java/lc_0039.java)| O(n^2)| O(n^2) | Medium | Backtrack
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
