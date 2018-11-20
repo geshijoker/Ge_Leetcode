@@ -64,6 +64,8 @@ This is a personal version of leetcode submissions
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[Solution](../master/src/algorithm/java/lc_0051.java)| O(n^2)| O(n^2) | Hard | Backtracking
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](../master/src/algorithm/java/lc_0048.java)| O(n^2)| O(1) | Medium | Matrix
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Solution](../master/src/algorithm/java/lc_0047.java)| O(n!)| O(n!) | Medium | Backtracking
+|46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Solution](../master/src/algorithm/java/lc_0046.java)| O(n!)| O(n!) | Medium | Backtracking
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Solution](../master/src/algorithm/java/lc_0045.java)| O(n)| O(1) | Hard | Greedy
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Solution](../master/src/algorithm/java/lc_0041.java	) | O(n) | O(1) | Hard | Bucket
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Solution](../master/src/algorithm/java/lc_0040.java)| O(n^2)| O(n^2) | Medium | Backtrack
