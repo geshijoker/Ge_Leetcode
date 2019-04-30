@@ -40,6 +40,7 @@ This is a personal version of leetcode submissions
 |252|[Meeting Rooms](https://www.lintcode.com/problem/meeting-rooms/description)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(nlgn) | O(1) | Easy | Sort
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Solution](../master/src/algorithm/java/lc_0240.java	) | O(n) | O(1) | Medium | Matrix
 |218|[Course Schedule II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java	) | O(nlgn) | O(n) | Hard | Treemap
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](../master/src/algorithm/c++/lc_0211.cpp	) | O(n^2) | O(n) | Medium | Trie
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java	) | O(VE) | O(V+E) | Medium | Topological Sort
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/algorithm/c++/lc_0208.cpp	) | O(n) | O(n) | Medium | Trie
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java	) | O(VE) | O(V+E) | Medium | DFS, Cycle
