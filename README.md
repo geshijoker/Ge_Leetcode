@@ -62,6 +62,7 @@ This is a personal version of leetcode submissions
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103.java	) | O(n^2) | O(n) | Medium | Binary Tree, Stack
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java	) | O(n^2) | O(n) | Medium | BST, catalan number
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java	) | O(n^3) | O(n^2) | Medium | BST, catalan number
+|79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Solution](../master/src/algorithm/java/lc_0079.java)| O(n^3)| O(1) | Medium | DFS
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070.java)| O(n)| O(n) | Easy | DP
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution](../master/src/algorithm/java/lc_0056.java)| O(n)| O(n) | Medium | Greedy
