@@ -1,5 +1,4 @@
 class Solution {
-    int res = 0;
     public int findTargetSumWays(int[] nums, int S) {
         int[][] memo = new int[nums.length][2001];
         for (int[] row: memo)
