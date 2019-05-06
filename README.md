@@ -21,6 +21,7 @@ This is a personal version of leetcode submissions
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](../master/src/algorithm/java/lc_0535.java)| O(1)|O(n) | Medium | ConcurrentHashMap
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[Solution](../master/src/algorithm/java/lc_0494.java)| O(ln)| O(n) | Medium | Binary tree, DP
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)|[Solution](../master/src/algorithm/java/lc_0493.java)| O(nlgn)| O(n) | Hard| Divide and Conqure
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)|[Solution](../master/src/algorithm/java/lc_0461.java)| O(n)| O(1) | Easy | Binary
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/)|[Solution](../master/src/algorithm/java/lc_0460.java)| O(1)|O(n) | Hard| Double LinkedList
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[Solution](../master/src/algorithm/java/lc_0455.java) | O(n) | O(1) | Easy | Greedy
