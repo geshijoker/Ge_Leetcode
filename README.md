@@ -12,7 +12,7 @@ This is a personal version of leetcode submissions
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)|[Solution](../master/src/algorithm/java/lc_0687.java	) | O(n) | O(1) | Easy | DFS
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../master/src/algorithm/c++/lc_0677.cpp	) | O(n) | O(n) | Medium | Trie
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Solution](../master/src/algorithm/c++/lc_0648.cpp	) | O(n) | O(n) | Medium | Trie
-|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](../master/src/algorithm/cjava/lc_0617.java) | O(n) | O(1) | Easy | Binary Tree
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](../master/src/algorithm/java/lc_0617.java) | O(n) | O(1) | Easy | Binary Tree
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0590_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0590.java	) | O(n^2) | O(1) | Easy | N-ary tree, recursive
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
