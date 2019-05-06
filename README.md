@@ -51,6 +51,7 @@ This is a personal version of leetcode submissions
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/algorithm/java/lc_0200.java	) | O(mn) | O(1) | Medium | DFS
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Solution](../master/src/algorithm/java/lc_0159.java	) | O(n) | O(1) | Hard | Two pointer
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/algorithm/java/lc_0152.java	) | O(n) | O(n) | Medium | DP
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Solution](../master/src/algorithm/java/lc_0146.java	) | O(1) | O(n) | Hard | Double LinkedList
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0142.java	) | O(n) | O(1) | Medium | Two Pointers
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
