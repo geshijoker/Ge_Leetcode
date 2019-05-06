@@ -42,6 +42,7 @@ This is a personal version of leetcode submissions
 |253|[Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)|[Solution](../master/src/algorithm/java/lc_0253.java	) | O(nlgn) | O(n) | Medium | Sort
 |252|[Meeting Rooms](https://www.lintcode.com/problem/meeting-rooms/description)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(nlgn) | O(1) | Easy | Sort
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Solution](../master/src/algorithm/java/lc_0240.java	) | O(n) | O(1) | Medium | Matrix
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[Solution](../master/src/algorithm/java/lc_0221.java	) | O(n^2) | O(n^2) | Medium | DP
 |218|[Course Schedule II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java	) | O(nlgn) | O(n) | Hard | Treemap
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](../master/src/algorithm/java/lc_0212.java)| O(n^4)| O(n) | Hard | DFS
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](../master/src/algorithm/c++/lc_0211.cpp	) | O(n^2) | O(n) | Medium | Trie
