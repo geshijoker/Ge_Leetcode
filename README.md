@@ -23,9 +23,10 @@ This is a personal version of leetcode submissions
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)|[Solution](../master/src/algorithm/java/lc_0493.java)| O(nlgn)| O(n) | Hard| Divide and Conqure
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/description/)|[Solution](../master/src/algorithm/java/lc_0460.java)| O(1)|O(n) | Hard| Double LinkedList
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/)|[Solution](../master/src/algorithm/java/lc_0459.java)| O(n)|O(1) | Easy| Substring
-|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[Solution](../master/src/algorithm/java/lc_0455.java	) | O(n) | O(1) | Easy | Greedy
-|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](../master/src/algorithm/java/lc_0442.java	) | O(n) | O(1) | Medium | Bucket
-|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)|[Solution](../master/src/algorithm/java/lc_0437.java	) | O(n) | O(n) | Easy | DFS, ArrayList
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)|[Solution](../master/src/algorithm/java/lc_0455.java) | O(n) | O(1) | Easy | Greedy
+|442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)|[Solution](../master/src/algorithm/java/lc_0442.java) | O(n) | O(1) | Medium | Bucket
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)|[Solution](../master/src/algorithm/java/lc_0438.java) | O(mn) | O(mn) | Easy | String
+|437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)|[Solution](../master/src/algorithm/java/lc_0437.java) | O(n) | O(n) | Easy | DFS, ArrayList
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0429.java	) | O(n^2) | O(n) | Easy | N-ary tree, recursive
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](../master/src/algorithm/java/lc_0421.java	) | O(n) | O(n) | Medium | Trie
