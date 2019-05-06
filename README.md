@@ -17,7 +17,7 @@ This is a personal version of leetcode submissions
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |588|[Design In-Memory File System](https://leetcode.com/articles/design-in-memory-file-system/)|[Solution](../master/src/algorithm/java/lc_0588.java) | O(n) | O(n) | Hard | Hashmap, Tree
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
-|559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
+|538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)|[Solution](../master/src/algorithm/java/lc_0538.java)| O(n) | O(n) | Easy | BST
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](../master/src/algorithm/java/lc_0535.java)| O(1)|O(n) | Medium | ConcurrentHashMap
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[Solution](../master/src/algorithm/java/lc_0494.java)| O(ln)| O(n) | Medium | Binary tree, DP
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)|[Solution](../master/src/algorithm/java/lc_0493.java)| O(nlgn)| O(n) | Hard| Divide and Conqure
