@@ -65,11 +65,12 @@ This is a personal version of leetcode submissions
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Solution](../master/src/algorithm/java/lc_0146.java	) | O(1) | O(n) | Hard | Double LinkedList
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0142.java	) | O(n) | O(1) | Medium | Two Pointers
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java	) | O(n) | O(n) | Medium | BFS
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127_1.java	) | O(n^2lgn) | O(n) | Medium | Double BFS
-|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java	) | O(mn^2) | O(n) | Medium | BFS
-|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Solution](../master/src/algorithm/java/lc_0126_1.java	) | O(n^2lgn) | O(n^2) | Hard | Double BFS
-|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Solution](../master/src/algorithm/java/lc_0126.java	) | O(n^2lgn) | O(n^2) | Hard | Double BFS
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java) | O(n) | O(n) | Medium | BFS
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127_1.java) | O(n^2lgn) | O(n) | Medium | Double BFS
+|127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java) | O(mn^2) | O(n) | Medium | BFS
+|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Solution](../master/src/algorithm/java/lc_0126_1.java) | O(n^2lgn) | O(n^2) | Hard | Double BFS
+|126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/)|[Solution](../master/src/algorithm/java/lc_0126.java) | O(n^2lgn) | O(n^2) | Hard | Double BFS
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](../master/src/algorithm/java/lc_0121.java) | O(n) | O(1) | Easy | Array
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)|[Solution](../master/src/algorithm/java/lc_0114.java	) | O(n) | O(n) | Easy | Binary Tree, DFS
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
