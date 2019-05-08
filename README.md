@@ -38,6 +38,7 @@ This is a personal version of leetcode submissions
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java	) | O(lg(n)) | O(1) | Easy | Two Pointers
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java	) | O(n) | O(n) | Easy | Sort
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](../master/src/algorithm/java/lc_0338.java	) | O(n) | O(n) | Medium | Binary
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Solution](../master/src/algorithm/java/lc_0337.java	) | O(n) | O(n) | Medium | Binary Tree, DP
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java	) | O(n^3) | O(n^2) | Hard | DFS
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
