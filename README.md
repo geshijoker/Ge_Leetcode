@@ -91,6 +91,7 @@ This is a personal version of leetcode submissions
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Solution](../master/src/algorithm/java/lc_0041.java	) | O(n) | O(1) | Hard | Bucket
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Solution](../master/src/algorithm/java/lc_0040.java)| O(n^2)| O(n^2) | Medium | Backtrack
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Solution](../master/src/algorithm/java/lc_0039.java)| O(n^2)| O(n^2) | Medium | Backtrack
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Solution](../master/src/algorithm/java/lc_0031.java)| O(n)| O(1) | Medium | Array
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Solution](../master/src/algorithm/java/lc_0025.java)| O(n)| O(1) | Hard | Three Pointers
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](../master/src/algorithm/java/lc_0006.java)| O(n^2)| O(n) | Medium | String
