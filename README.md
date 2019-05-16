@@ -19,6 +19,7 @@ This is a personal version of leetcode submissions
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0589_1.java	) | O(n^2) | O(n) | Easy | N-ary tree, iterative
 |588|[Design In-Memory File System](https://leetcode.com/articles/design-in-memory-file-system/)|[Solution](../master/src/algorithm/java/lc_0588.java) | O(n) | O(n) | Hard | Hashmap, Tree
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[Solution](../master/src/algorithm/java/lc_0581.java) | O(nlgn) | O(n) | Easy | Sort
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Solution](../master/src/algorithm/java/lc_0560.java)| O(n^2)| O(1) | Medium | Array
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0543.java)| O(n) | O(n) | Easy | DFS
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)|[Solution](../master/src/algorithm/java/lc_0538.java)| O(n) | O(n) | Easy | BST
