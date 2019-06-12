@@ -106,6 +106,7 @@ This is a personal version of leetcode submissions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Solution](../master/src/algorithm/java/lc_0025.java)| O(n)| O(1) | Hard | Three Pointers
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](../master/src/algorithm/java/lc_0006.java)| O(n^2)| O(n) | Medium | String
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](../master/src/algorithm/java/lc_0003.java)| O(n)| O(n) | Medium | HashMap
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Solution](../master/src/algorithm/java/lc_0002.java)| O(n)| O(n) | Medium | linkedList
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Solution](../master/src/algorithm/java/lc_0001.java)| O(n)| O(n) | Easy| Hash Table
 
