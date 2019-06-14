@@ -106,6 +106,7 @@ This is a personal version of leetcode submissions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Solution](../master/src/algorithm/java/lc_0025.java)| O(n)| O(1) | Hard | Three Pointers
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](../master/src/algorithm/java/lc_0006.java)| O(n^2)| O(n) | Medium | String
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Solution](../master/src/algorithm/java/lc_0005.java)| O(n^2)| O(n) | Medium | String
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)|[Solution](../master/src/algorithm/java/lc_0004.java)| O(lgn)| O(n) | Hard | Sorting
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Solution](../master/src/algorithm/java/lc_0003.java)| O(n)| O(n) | Medium | HashMap
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Solution](../master/src/algorithm/java/lc_0002.java)| O(n)| O(n) | Medium | linkedList
