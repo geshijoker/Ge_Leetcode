@@ -85,9 +85,10 @@ This is a personal version of leetcode submissions
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103_1.java	) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103.java	) | O(n^2) | O(n) | Medium | Binary Tree, Stack
-|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[Solution](../master/src/algorithm/java/lc_0098.java	) | O(n) | O(n) | Medium | BST, DFS
-|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java	) | O(n^2) | O(n) | Medium | BST, catalan number
-|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java	) | O(n^3) | O(n^2) | Medium | BST, catalan number
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[Solution](../master/src/algorithm/java/lc_0098.java) | O(n) | O(n) | Medium | BST, DFS
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java) | O(n^2) | O(n) | Medium | BST, catalan number
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java) | O(n^3) | O(n^2) | Medium | BST, catalan number
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0094.java	) | O(n^2) | O(n) | Medium | Binary Tree
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Solution](../master/src/algorithm/java/lc_0079.java)| O(n^3)| O(1) | Medium | DFS
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070.java)| O(n)| O(n) | Easy | DP
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
@@ -100,7 +101,7 @@ This is a personal version of leetcode submissions
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Solution](../master/src/algorithm/java/lc_0047.java)| O(n!)| O(n!) | Medium | Backtracking
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Solution](../master/src/algorithm/java/lc_0046.java)| O(n!)| O(n!) | Medium | Backtracking
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/description/)|[Solution](../master/src/algorithm/java/lc_0045.java)| O(n)| O(1) | Hard | Greedy
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Solution](../master/src/algorithm/java/lc_0041.java	) | O(n) | O(1) | Hard | Bucket
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/)|[Solution](../master/src/algorithm/java/lc_0041.java) | O(n) | O(1) | Hard | Bucket
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)|[Solution](../master/src/algorithm/java/lc_0040.java)| O(n^2)| O(n^2) | Medium | Backtrack
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/description/)|[Solution](../master/src/algorithm/java/lc_0039.java)| O(n^2)| O(n^2) | Medium | Backtrack
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Solution](../master/src/algorithm/java/lc_0031.java)| O(n)| O(1) | Medium | Array
