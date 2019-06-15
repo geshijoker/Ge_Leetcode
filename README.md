@@ -69,6 +69,7 @@ This is a personal version of leetcode submissions
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](../master/src/algorithm/java/lc_0152.java	) | O(n) | O(n) | Medium | DP
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[Solution](../master/src/algorithm/java/lc_0148.java	) | O(nlgn) | O(lgn) | Medium | LinkedList
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/description/)|[Solution](../master/src/algorithm/java/lc_0146.java	) | O(1) | O(n) | Hard | Double LinkedList
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0144.java	) | O(n^2) | O(n) | Medium | Binary Tree
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0142.java	) | O(n) | O(1) | Medium | Two Pointers
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java) | O(n) | O(n) | Medium | BFS
