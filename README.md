@@ -89,6 +89,7 @@ This is a personal version of leetcode submissions
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103_1.java	) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103.java	) | O(n^2) | O(n) | Medium | Binary Tree, Stack
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0102.java) | O(n^2) | O(n) | Medium | Binary Tree
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/)|[Solution](../master/src/algorithm/java/lc_0101.java) | O(n) | O(1) | Easy | Binary Tree
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)|[Solution](../master/src/algorithm/java/lc_0098.java) | O(n) | O(n) | Medium | BST, DFS
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)|[Solution](../master/src/algorithm/java/lc_0096.java) | O(n^2) | O(n) | Medium | BST, catalan number
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java) | O(n^3) | O(n^2) | Medium | BST, catalan number
