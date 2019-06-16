@@ -7,6 +7,7 @@ This is a personal version of leetcode submissions
 |  #  |      Title     |   Solutions   | Time          | Space         | Difficulty  | Tag          
 |-----|----------------|---------------|---------------|---------------|-------------|--------------
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)|[Solution](../master/src/algorithm/java/lc_0901.java) | O(n) | O(n) | Medium | Stack
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0889.java) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description/)|[Solution](../master/src/algorithm/java/lc_0860.java) | O(n) | O(1) | Easy | Greedy
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0766.java) | O(mn) | O(1) | Easy | Matrix
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|[Solution](../master/src/algorithm/java/lc_0739.java) | O(n) | O(n) | Medium | Array, bucket
@@ -85,6 +86,8 @@ This is a personal version of leetcode submissions
 |112|[Path Sum](https://leetcode.com/problems/path-sum/description/)|[Solution](../master/src/algorithm/java/lc_0112.java	) | O(n) | O(1) | Easy | Binary Tree
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0106.java) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0105.java) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0104_1.java) | O(n) | O(1) | Easy | Binary Tree, Recursive
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0104.java) | O(n) | O(1) | Easy | Binary Tree, Recursive
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0103_1.java	) | O(n^2) | O(n) | Medium | Binary Tree, Recursive
