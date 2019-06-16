@@ -21,10 +21,10 @@ class Solution {
             map.put(inorder[i],i);
         }
         
-        return buildTree( 0,preorder, inorder,0,inorder.length-1,map );
+        return helper( 0,preorder, inorder,0,inorder.length-1,map );
     }
     
-    public TreeNode buildTree(int rootIndex,int[] preorder, int[] inorder,int startin, int endin ,Map<Integer,Integer> map){
+    public TreeNode helper(int rootIndex,int[] preorder, int[] inorder, int startin, int endin ,Map<Integer,Integer> map){
         
         if( startin > endin || rootIndex<0 || rootIndex>=preorder.length ){
             return null;
@@ -33,9 +33,9 @@ class Solution {
         TreeNode rootNode = new TreeNode(preorder[rootIndex]);
         Integer rootLocationInOrder = map.get(rootNode.val);
         
-        rootNode.left = buildTree(rootIndex+1,preorder, inorder,startin, rootLocationInOrder-1,map );
+        rootNode.left = helper(rootIndex+1,preorder, inorder,startin, rootLocationInOrder-1,map );
         int left = rootLocationInOrder - startin;
-        rootNode.right = buildTree(rootIndex+left+1,preorder, inorder,rootLocationInOrder+1,  endin ,map);
+        rootNode.right = helper(rootIndex+left+1,preorder, inorder,rootLocationInOrder+1,  endin ,map);
         
         return rootNode;
         
