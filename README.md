@@ -82,6 +82,7 @@ This is a personal version of leetcode submissions
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Solution](../master/src/algorithm/java/lc_0122.java) | O(n) | O(1) | Easy | Array, Greedy
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](../master/src/algorithm/java/lc_0121.java) | O(n) | O(1) | Easy | Array
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)|[Solution](../master/src/algorithm/java/lc_0114.java	) | O(n) | O(n) | Easy | Binary Tree, DFS
+|112|[Path Sum](https://leetcode.com/problems/path-sum/description/)|[Solution](../master/src/algorithm/java/lc_0112.java	) | O(n) | O(1) | Easy | Binary Tree
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0111.java	) | O(n) | O(n) | Easy | Binary Tree, BFS
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/)|[Solution](../master/src/algorithm/java/lc_0107.java	) | O(n) | O(1) | Easy | Binary Tree, recursive
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0104_1.java) | O(n) | O(1) | Easy | Binary Tree, Recursive
