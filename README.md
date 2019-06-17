@@ -50,6 +50,7 @@ This is a personal version of leetcode submissions
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java	) | O(E) | O(E) | Medium | Inverse BFS
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Solution](../master/src/algorithm/java/lc_0300.java	) | O(nlgn) | O(n) | Medium | DP, Binary Search
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0297.java	) | O(n) | O(n) | Hard | Binary Tree
 |295|[Longest Increasing Subsequence](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Solution](../master/src/algorithm/java/lc_0295.java	) | O(nlgn) | O(n) | Hard | Heap
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Solution](../master/src/algorithm/java/lc_0287.java	) | O(n) | O(1) | Medium | Two pointers
 |253|[Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)|[Solution](../master/src/algorithm/java/lc_0253.java	) | O(nlgn) | O(n) | Medium | Sort
