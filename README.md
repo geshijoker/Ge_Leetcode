@@ -55,6 +55,7 @@ This is a personal version of leetcode submissions
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0297.java	) | O(n) | O(n) | Hard | Binary Tree
 |295|[Longest Increasing Subsequence](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Solution](../master/src/algorithm/java/lc_0295.java	) | O(nlgn) | O(n) | Hard | Heap
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Solution](../master/src/algorithm/java/lc_0287.java	) | O(n) | O(1) | Medium | Two pointers
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description)|[Solution](../master/src/algorithm/java/lc_0279.java	) | O(n^3/2) | O(n) | Medium | DOP
 |253|[Meeting Rooms II](https://www.lintcode.com/problem/meeting-rooms-ii/description)|[Solution](../master/src/algorithm/java/lc_0253.java	) | O(nlgn) | O(n) | Medium | Sort
 |252|[Meeting Rooms](https://www.lintcode.com/problem/meeting-rooms/description)|[Solution](../master/src/algorithm/java/lc_0252.java	) | O(nlgn) | O(1) | Easy | Sort
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)|[Solution](../master/src/algorithm/java/lc_0240.java	) | O(n) | O(1) | Medium | Matrix
