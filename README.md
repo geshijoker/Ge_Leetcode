@@ -81,6 +81,7 @@ This is a personal version of leetcode submissions
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0144.java) | O(n^2) | O(n) | Medium | Binary Tree
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0142.java) | O(n) | O(1) | Medium | Two Pointers
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133_1.java) | O(n) | O(n) | Medium | DFS
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java) | O(n) | O(n) | Medium | BFS
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127_1.java) | O(n^2lgn) | O(n) | Medium | Double BFS
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/description/)|[Solution](../master/src/algorithm/java/lc_0127.java) | O(mn^2) | O(n) | Medium | BFS
