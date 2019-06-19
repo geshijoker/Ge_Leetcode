@@ -65,16 +65,17 @@ This is a personal version of leetcode submissions
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|[Solution](../master/src/algorithm/java/lc_0238.java	) | O(n) | O(1) | Medium | Array
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0236.java) | O(n) | O(1) | Medium | Binary Tree, Recursive
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|[Solution](../master/src/algorithm/java/lc_0235.java) | O(n) | O(1) | Easy | Binary Tree, Recursive
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[Solution](../master/src/algorithm/java/lc_0232.java	) | O(n) | O(n) | Easy | Stack
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0226.java	) | O(n) | O(n) | Easy | DFS
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[Solution](../master/src/algorithm/java/lc_0221.java	) | O(n^2) | O(n^2) | Medium | DP
-|218|[Course Schedule II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java	) | O(nlgn) | O(n) | Hard | Treemap
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)|[Solution](../master/src/algorithm/java/lc_0232.java) | O(n) | O(n) | Easy | Stack
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0226.java) | O(n) | O(n) | Easy | DFS
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/)|[Solution](../master/src/algorithm/java/lc_0225.java) | O(n) | O(n) | Easy | Queue
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/)|[Solution](../master/src/algorithm/java/lc_0221.java) | O(n^2) | O(n^2) | Medium | DP
+|218|[Course Schedule II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java) | O(nlgn) | O(n) | Hard | Treemap
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](../master/src/algorithm/java/lc_0212.java)| O(n^4)| O(n) | Hard | DFS
-|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](../master/src/algorithm/c++/lc_0211.cpp	) | O(n^2) | O(n) | Medium | Trie
-|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java	) | O(VE) | O(V+E) | Medium | Topological Sort
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/algorithm/c++/lc_0208.cpp	) | O(n) | O(n) | Medium | Trie
-|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java	) | O(VE) | O(V+E) | Medium | DFS, Cycle
-|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/algorithm/java/lc_0200.java	) | O(mn) | O(1) | Medium | DFS
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](../master/src/algorithm/c++/lc_0211.cpp) | O(n^2) | O(n) | Medium | Trie
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java) | O(VE) | O(V+E) | Medium | Topological Sort
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/algorithm/c++/lc_0208.cpp) | O(n) | O(n) | Medium | Trie
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java) | O(VE) | O(V+E) | Medium | DFS, Cycle
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/algorithm/java/lc_0200.java) | O(mn) | O(1) | Medium | DFS
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Solution](../master/src/algorithm/java/lc_0159.java	) | O(n) | O(1) | Hard | Two pointer
 |155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[Solution](../master/src/algorithm/java/lc_0155.java	) | O(1) | O(1) | Easy | Stack
