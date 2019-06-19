@@ -26,6 +26,7 @@ This is a personal version of leetcode submissions
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)|[Solution](../master/src/algorithm/java/lc_0560.java)| O(n^2)| O(1) | Medium | Array
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0559.java)| O(n^2)|O(1) | Easy| N-ary tree, recursive
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0543.java)| O(n) | O(n) | Easy | DFS
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0542.java)| O(n^2) | O(n^2) | Medium | BFS
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)|[Solution](../master/src/algorithm/java/lc_0538.java)| O(n) | O(n) | Easy | BST
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)|[Solution](../master/src/algorithm/java/lc_0535.java)| O(1)|O(n) | Medium | ConcurrentHashMap
 |494|[Target Sum](https://leetcode.com/problems/target-sum/description/)|[Solution](../master/src/algorithm/java/lc_0494.java)| O(ln)| O(n) | Medium | Binary tree, DP
