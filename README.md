@@ -45,17 +45,18 @@ This is a personal version of leetcode submissions
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](../master/src/algorithm/java/lc_0421.java	) | O(n) | O(n) | Medium | Trie
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](../master/src/algorithm/java/lc_0416.java	) | O(mn) | O(n) | Medium | DP
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[Solution](../master/src/algorithm/java/lc_0406.java	) | O(nlgn) | O(n) | Medium | Array, Sort
-|394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java	) | O(n) | O(n) | Medium | Two Stacks
-|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java	) | O(lg(n)) | O(1) | Easy | Two Pointers
-|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java	) | O(n) | O(n) | Easy | Sort
+|394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java) | O(n) | O(n) | Medium | Two Stacks
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java) | O(lg(n)) | O(1) | Easy | Two Pointers
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java) | O(n) | O(n) | Easy | Sort
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](../master/src/algorithm/java/lc_0344.java) | O(n) | O(1) | Easy | Recursion
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
-|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](../master/src/algorithm/java/lc_0338.java	) | O(n) | O(n) | Medium | Binary
-|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Solution](../master/src/algorithm/java/lc_0337.java	) | O(n) | O(n) | Medium | Binary Tree, DP
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java	) | O(n^3) | O(n^2) | Hard | DFS
-|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java	) | O(n) | O(n) | Hard | Stack
-|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java	) | O(E) | O(E) | Medium | Inverse BFS
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Solution](../master/src/algorithm/java/lc_0300.java	) | O(nlgn) | O(n) | Medium | DP, Binary Search
-|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0297.java	) | O(n) | O(n) | Hard | Binary Tree
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](../master/src/algorithm/java/lc_0338.java) | O(n) | O(n) | Medium | Binary
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Solution](../master/src/algorithm/java/lc_0337.java) | O(n) | O(n) | Medium | Binary Tree, DP
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java) | O(n^3) | O(n^2) | Hard | DFS
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java) | O(n) | O(n) | Hard | Stack
+|310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java) | O(E) | O(E) | Medium | Inverse BFS
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Solution](../master/src/algorithm/java/lc_0300.java) | O(nlgn) | O(n) | Medium | DP, Binary Search
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)|[Solution](../master/src/algorithm/java/lc_0297.java) | O(n) | O(n) | Hard | Binary Tree
 |295|[Longest Increasing Subsequence](https://leetcode.com/problems/find-median-from-data-stream/description/)|[Solution](../master/src/algorithm/java/lc_0295.java	) | O(nlgn) | O(n) | Hard | Heap
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)|[Solution](../master/src/algorithm/java/lc_0287.java	) | O(n) | O(1) | Medium | Two pointers
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/description)|[Solution](../master/src/algorithm/java/lc_0279.java	) | O(n^3/2) | O(n) | Medium | DOP
