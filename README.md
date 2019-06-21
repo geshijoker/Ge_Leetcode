@@ -96,7 +96,8 @@ This is a personal version of leetcode submissions
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)|[Solution](../master/src/algorithm/java/lc_0123.java) | O(n) | O(1) | Hard | State Transform
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/)|[Solution](../master/src/algorithm/java/lc_0122.java) | O(n) | O(1) | Easy | Array, Greedy
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](../master/src/algorithm/java/lc_0121.java) | O(n) | O(1) | Easy | Array
-|118|[Pascal's Triangle](https://leetcode.com/explore/featured/card/recursion-i/251/scenario-i-recurrence-relation/1659/description/)|[Solution](../master/src/algorithm/java/lc_0118.java) | O(n^2) | O(n^2) | Easy | LinkedList
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0119.java) | O(n^2) | O(n) | Easy | LinkedList
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)|[Solution](../master/src/algorithm/java/lc_0118.java) | O(n^2) | O(n^2) | Easy | LinkedList
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/)|[Solution](../master/src/algorithm/java/lc_0117.java) | O(n) | O(1) | Medium | Binary Tree, Recursive
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)|[Solution](../master/src/algorithm/java/lc_0116.java) | O(n) | O(1) | Medium | Binary Tree, Recursive
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)|[Solution](../master/src/algorithm/java/lc_0114.java) | O(n) | O(n) | Easy | Binary Tree, DFS
