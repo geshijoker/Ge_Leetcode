@@ -119,6 +119,7 @@ This is a personal version of leetcode submissions
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)|[Solution](../master/src/algorithm/java/lc_0095.java) | O(n^3) | O(n^2) | Medium | BST, catalan number
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0094.java	) | O(n^2) | O(n) | Medium | Binary Tree
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Solution](../master/src/algorithm/java/lc_0079.java)| O(n^3)| O(1) | Medium | DFS
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070_1.java)| O(n)| O(n) | Easy | Memorization
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070.java)| O(n)| O(n) | Easy | DP
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)|[Solution](../master/src/algorithm/java/lc_0056.java)| O(n)| O(n) | Medium | Greedy
