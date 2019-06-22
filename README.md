@@ -138,6 +138,7 @@ This is a personal version of leetcode submissions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Solution](../master/src/algorithm/java/lc_0029.java)| O(log(n))| O(1) | Medium | Binary Search
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Solution](../master/src/algorithm/java/lc_0025.java)| O(n)| O(1) | Hard | Three Pointers
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[Solution](../master/src/algorithm/java/lc_0024.java)| O(n)| O(1) | Medium | LinkedList, Recursive
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[Solution](../master/src/algorithm/java/lc_0021.java)| O(n)| O(1) | Easy | LinkedList, Recursive
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)|[Solution](../master/src/algorithm/java/lc_0020.java)| O(n)| O(n) | Easy | Stack
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)|[Solution](../master/src/algorithm/java/lc_0006.java)| O(n^2)| O(n) | Medium | String
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)|[Solution](../master/src/algorithm/java/lc_0005.java)| O(n^2)| O(n) | Medium | String
