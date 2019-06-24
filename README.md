@@ -50,6 +50,7 @@ This is a personal version of leetcode submissions
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java) | O(n) | O(n) | Medium | Two Stacks
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java) | O(lg(n)) | O(1) | Easy | Two Pointers
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java) | O(n) | O(n) | Easy | Sort
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Solution](../master/src/algorithm/java/lc_0349.java) | O(n) | O(n) | Easy | HashSet
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/description/)|[Solution](../master/src/algorithm/java/lc_0344.java) | O(n) | O(1) | Easy | Recursion
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](../master/src/algorithm/java/lc_0338.java) | O(n) | O(n) | Medium | Binary
