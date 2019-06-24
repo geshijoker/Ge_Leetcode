@@ -88,6 +88,7 @@ This is a personal version of leetcode submissions
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0145.java) | O(n^2) | O(n) | Hard | Binary Tree
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|[Solution](../master/src/algorithm/java/lc_0144.java) | O(n^2) | O(n) | Medium | Binary Tree
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[Solution](../master/src/algorithm/java/lc_0142.java) | O(n) | O(1) | Medium | Two Pointers
+|136|[Single Number](https://leetcode.com/problems/single-number/description/)|[Solution](../master/src/algorithm/java/lc_0136.java	) | O(n) | O(1) | Easy | Binary
 |135|[Candy](https://leetcode.com/problems/candy/description/)|[Solution](../master/src/algorithm/java/lc_0135.java	) | O(n) | O(n) | Hard | Greedy
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133_1.java) | O(n) | O(n) | Medium | DFS
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/description/)|[Solution](../master/src/algorithm/java/lc_0133.java) | O(n) | O(n) | Medium | BFS
