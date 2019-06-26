@@ -135,6 +135,7 @@ This is a personal version of leetcode submissions
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)|[Solution](../master/src/algorithm/java/lc_0052.java)| O(n^2)| O(n^2) | Hard | Backtracking
 |51|[N-Queens](https://leetcode.com/problems/n-queens/description/)|[Solution](../master/src/algorithm/java/lc_0051.java)| O(n^2)| O(n^2) | Hard | Backtracking
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)|[Solution](../master/src/algorithm/java/lc_0050.java)| O(log(n))| O(1) | Medium | Binary Search
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|[Solution](../master/src/algorithm/java/lc_0049.java)| O(n)| O(n) | Medium | HashMap
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](../master/src/algorithm/java/lc_0048.java)| O(n^2)| O(1) | Medium | Matrix
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/description/)|[Solution](../master/src/algorithm/java/lc_0047.java)| O(n!)| O(n!) | Medium | Backtracking
 |46|[Permutations](https://leetcode.com/problems/permutations/description/)|[Solution](../master/src/algorithm/java/lc_0046.java)| O(n!)| O(n!) | Medium | Backtracking
