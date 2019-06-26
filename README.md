@@ -79,6 +79,7 @@ This is a personal version of leetcode submissions
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java) | O(VE) | O(V+E) | Medium | Topological Sort
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](../master/src/algorithm/c++/lc_0208.cpp) | O(n) | O(n) | Medium | Trie
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/description/)|[Solution](../master/src/algorithm/java/lc_0207.java) | O(VE) | O(V+E) | Medium | DFS, Cycle
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](../master/src/algorithm/java/lc_0205.java) | O(n) | O(n) | Easy | HashMap
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](../master/src/algorithm/java/lc_0200.java) | O(mn) | O(1) | Medium | DFS
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[Solution](../master/src/algorithm/java/lc_0167.java	) | O(n) | O(1) | Easy | Two pointer
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)|[Solution](../master/src/algorithm/java/lc_0159.java	) | O(n) | O(1) | Hard | Two pointer
