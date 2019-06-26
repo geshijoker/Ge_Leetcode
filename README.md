@@ -49,6 +49,7 @@ This is a personal version of leetcode submissions
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[Solution](../master/src/algorithm/java/lc_0416.java	) | O(mn) | O(n) | Medium | DP
 |406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|[Solution](../master/src/algorithm/java/lc_0406.java	) | O(nlgn) | O(n) | Medium | Array, Sort
 |394|[Decode String](https://leetcode.com/problems/decode-string/description/)|[Solution](../master/src/algorithm/java/lc_0394.java) | O(n) | O(n) | Medium | Two Stacks
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)|[Solution](../master/src/algorithm/java/lc_0387.java) | O(n) | O(n) | Easy | HashMap
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[Solution](../master/src/algorithm/java/lc_0367.java) | O(lg(n)) | O(1) | Easy | Two Pointers
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[Solution](../master/src/algorithm/java/lc_0350.java) | O(n) | O(n) | Easy | Sort
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Solution](../master/src/algorithm/java/lc_0349.java) | O(n) | O(n) | Easy | HashSet
