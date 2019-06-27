@@ -17,6 +17,7 @@ This is a personal version of leetcode submissions
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/description/)|[Solution](../master/src/algorithm/java/lc_0733.java) | O(n) | O(n) | Medium | BFS
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/description/)|[Solution](../master/src/algorithm/java/lc_0687.java) | O(n) | O(1) | Easy | DFS
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/)|[Solution](../master/src/algorithm/c++/lc_0677.cpp) | O(n) | O(n) | Medium | Trie
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/)|[Solution](../master/src/algorithm/c++/lc_0652.cpp) | O(n^2) | O(n^2) | Medium | Tree, HashMap
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[Solution](../master/src/algorithm/c++/lc_0648.cpp) | O(n) | O(n) | Medium | Trie
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](../master/src/algorithm/java/lc_0647.java) | O(n) | O(1) | Medium | Strinng, Palindromic
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[Solution](../master/src/algorithm/java/lc_0622.java) | O(1) | O(1) | Easy | Queue
