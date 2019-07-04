@@ -59,7 +59,8 @@ This is a personal version of leetcode submissions
 |340|[Longest Substring with At Most K Distinct Characters](https://www.lintcode.com/problem/longest-substring-with-at-most-k-distinct-characters/description)|[Solution](../master/src/algorithm/java/lc_0340.java	) | O(n) | O(1) | Hard | Two pointer
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/description/)|[Solution](../master/src/algorithm/java/lc_0338.java) | O(n) | O(n) | Medium | Binary
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/description/)|[Solution](../master/src/algorithm/java/lc_0337.java) | O(n) | O(n) | Medium | Binary Tree, DP
-|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/)|[Solution](../master/src/algorithm/java/lc_0329.java) | O(n^3) | O(n^2) | Hard | DFS
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[Solution](../master/src/algorithm/java/lc_0322.java) | O(mn) | O(n) | Medium | DP
+|316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java) | O(n) | O(n) | Hard | Stack
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/)|[Solution](../master/src/algorithm/java/lc_0316.java) | O(n) | O(n) | Hard | Stack
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/description/)|[Solution](../master/src/algorithm/java/lc_0310.java) | O(E) | O(E) | Medium | Inverse BFS
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)|[Solution](../master/src/algorithm/java/lc_0300.java) | O(nlgn) | O(n) | Medium | DP, Binary Search
