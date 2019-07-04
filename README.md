@@ -130,6 +130,7 @@ This is a personal version of leetcode submissions
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/description/)|[Solution](../master/src/algorithm/java/lc_0090.java)| O(n!)| O(n!) | Medium | Backtracking
 |79|[Word Search](https://leetcode.com/problems/word-search/description/)|[Solution](../master/src/algorithm/java/lc_0079.java)| O(n^3)| O(1) | Medium | DFS
 |78|[Subsets](https://leetcode.com/problems/subsets/description/)|[Solution](../master/src/algorithm/java/lc_0078.java)| O(n!)| O(n!) | Medium | Backtracking
+|77|[Combinations](https://leetcode.com/problems/combinations/description/)|[Solution](../master/src/algorithm/java/lc_0077.java)| O(n!)| O(n!) | Medium | Backtracking
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070_1.java)| O(n)| O(n) | Easy | Memorization
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[Solution](../master/src/algorithm/java/lc_0070.java)| O(n)| O(n) | Easy | DP
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)|[Solution](../master/src/algorithm/java/lc_0055.java)| O(n)| O(n) | Medium | Sort
