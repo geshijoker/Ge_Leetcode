@@ -15,7 +15,7 @@ class Solution {
             return;
         }
         for(int i=start;i<candidates.length;i++) {
-            if(i!=start && candidates[i] == candidates[i - 1]) continue;
+            if(i>start && candidates[i] == candidates[i - 1]) continue;
             temp.add(candidates[i]);
             backtrack(candidates, i+1, remain-candidates[i], temp, res);
             temp.remove(temp.size()-1);
