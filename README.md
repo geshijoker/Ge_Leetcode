@@ -79,6 +79,7 @@ This is a personal version of leetcode submissions
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/)|[Solution](../master/src/algorithm/java/lc_0220.java) | O(nlgk) | O(k) | Medium | TreeSet
 |219|[Contains Duplicate II](https://leetcode.com/problems/the-skyline-problem/description/)|[Solution](../master/src/algorithm/java/lc_0218.java) | O(nlgn) | O(n) | Hard | TreeMap
 |218|[Course Schedule II](https://leetcode.com/problems/contains-duplicate-ii/description/)|[Solution](../master/src/algorithm/java/lc_0219.java) | O(n) | O(n) | Easy | Hashmap
+|216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/)|[Solution](../master/src/algorithm/java/lc_0216.java)| O(n!)| O(n!) | Medium | Backtracking
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](../master/src/algorithm/java/lc_0212.java)| O(n^4)| O(n) | Hard | DFS
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](../master/src/algorithm/c++/lc_0211.cpp) | O(n^2) | O(n) | Medium | Trie
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)|[Solution](../master/src/algorithm/java/lc_0210.java) | O(VE) | O(V+E) | Medium | Topological Sort
